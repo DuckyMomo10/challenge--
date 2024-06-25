@@ -35,8 +35,8 @@ img {
 }
 
 .content {
-        display: grid;
-        grid-template-rows: 80px 100px;
+    display: grid;
+    grid-template-rows: 80px 100px;
     border-radius: 20px;
     background-color: #fff;
     padding: 0 25px;
